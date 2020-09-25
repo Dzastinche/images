@@ -1,0 +1,14 @@
+body{
+    font-size: 62.5%;
+    text-align: center;
+}
+#all{
+    margin: 0 30%;
+}
+#all a{
+    display: block;
+    margin-bottom: 1rem;
+}
+#all img{
+    width: 100%;
+}
